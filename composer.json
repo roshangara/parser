@@ -1,0 +1,34 @@
+{
+  "name": "roshangara/parser",
+  "description": "parse xml, xsd, class and json to array",
+  "homepage": "https://github.com/roshangara/parser",
+  "keywords": [
+    "laravel",
+    "lumen",
+    "roshangara",
+    "xml",
+    "xsd",
+    "parser"
+  ],
+  "support": {
+    "issues": "https://github.com/roshangara/parser/issues",
+    "source": "https://github.com/roshangara/parser"
+  },
+  "require": {
+    "php": ">=7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Roshangara\\Parser\\": "src"
+    }
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Mohammad Taghikhani",
+      "email": "mroshangara@gmail.com",
+      "homepage": "http://roshangara.ir"
+    }
+  ],
+  "minimum-stability": "dev"
+}
