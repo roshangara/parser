@@ -15,7 +15,8 @@
     "source": "https://github.com/roshangara/parser"
   },
   "require": {
-    "php": ">=7.0"
+    "php": ">=7.0",
+    "roshangara/errorable": "dev-master"
   },
   "autoload": {
     "psr-4": {
