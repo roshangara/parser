@@ -119,7 +119,7 @@ class Parser
                 $this->setError(json_last_error(), json_last_error_msg());
         }
 
-        return $this->result;
+        return (array)$this->result;
     }
 
     /**
